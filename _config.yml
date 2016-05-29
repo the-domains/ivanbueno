@@ -1,0 +1,28 @@
+name: Ivan Bueno
+favicon: null
+layout_spectrum: 0.6246072470676154
+typography_spectrum: 0.8659720763098449
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5531793783884495
+  lightness: 0.01738854357972741
+  saturation: 0.5092797016259283
+  rhythmicContrast: 0.27529887994751334
+purpose: []
