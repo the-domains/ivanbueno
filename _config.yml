@@ -1,8 +1,5 @@
-name: Ivan Bueno
-favicon: null
-layout_spectrum: 0.5021276
-typography_spectrum: 0.32629
 title: Ivan Bueno
+purpose: []
 collections:
   - index:
       path: /
@@ -15,27 +12,30 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-589707-4
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.5092797016259283
+  brandStrength: 0.5531793783884495
+  rhythmicContrast: 0.2752988799475133
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5531793783884495
   lightness: 0.01738854357972741
-  saturation: 0.5092797016259283
-  rhythmicContrast: 0.2752988799475133
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-42641088-6
+  facebook: null
+favicon: null
+name: Ivan Bueno
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.32629
+layout_spectrum: 0.1468085
