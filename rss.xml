@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ivan Bueno]]></title>
         <description><![CDATA[Ivan Bueno]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ivanbueno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 03:10:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 03:19:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ivanbueno/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Years ago, not knowing how, I made a short film. https://vimeo.com/7</p>]]></description>
+            <link>https://thegrid.ai/ivanbueno/years-ago-not-knowing-how-i-made-a-short-film-httpsvim/index.html</link>
+            <guid isPermaLink="false">b1d8d3ba-cefb-4d7f-845d-dfae2a3be7eb</guid>
+            <pubDate>Sun, 29 May 2016 03:19:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>As I write this, nobody knows it's here. Except you, whoever you are.</p>]]></description>
-            <link>undefinedas-i-write-this-nobody-knows-its-here-except-you-whoever/index.html</link>
+            <link>https://thegrid.ai/ivanbueno/as-i-write-this-nobody-knows-its-here-except-you-whoever/index.html</link>
             <guid isPermaLink="false">d31911a2-60b7-458b-9396-bc3e2a0cb9c8</guid>
             <pubDate>Sun, 29 May 2016 03:10:00 GMT</pubDate>
         </item>
