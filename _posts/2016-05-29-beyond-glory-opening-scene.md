@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/79219389'
+inLanguage: null
+keywords: []
+description: "Is it freezing? How deep is it? Will I die? No time for those questions when you're head-first in mid-air, gravity pulling you down towards the abyss."
+datePublished: '2016-05-29T03:35:49.919Z'
+dateModified: '2016-05-29T03:35:28.688Z'
 author:
   - name: Ivan Bueno
     url: 'http://vimeo.com/ivanbueno'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is a story about two female fighters who both must reconcile what they fight for in the ring, and outside it. Synopsis: Lucia, a newcomer in mixed martial arts, is on the verge of hitting it big after defeating the long time reigning champion, Megumi.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/79219389'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/79219389'
 title: Beyond Glory (Opening Scene)
-datePublished: '2016-05-29T03:33:18.105Z'
-dateModified: '2016-05-29T03:30:16.662Z'
-starred: false
 sourcePath: _posts/2016-05-29-beyond-glory-opening-scene.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
