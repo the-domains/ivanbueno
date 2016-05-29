@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/79219389'
 inLanguage: null
 keywords: []
 description: "Is it freezing? How deep is it? Will I die? No time for those questions when you're head-first in mid-air, gravity pulling you down towards the abyss."
-datePublished: '2016-05-29T03:35:49.919Z'
-dateModified: '2016-05-29T03:35:28.688Z'
+datePublished: '2016-05-29T03:36:41.750Z'
+dateModified: '2016-05-29T03:36:12.539Z'
 author:
   - name: Ivan Bueno
     url: 'http://vimeo.com/ivanbueno'
