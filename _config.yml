@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-42641088-6
   facebook: null
-name: Ivan Bueno
 favicon: null
+name: Ivan Bueno
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.32629
-layout_spectrum: 1
+layout_spectrum: 0.8
