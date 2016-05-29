@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ivan Bueno]]></title>
+        <description><![CDATA[Ivan Bueno]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 May 2016 03:10:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>As I write this, nobody knows it's here. Except you, whoever you are.</p>]]></description>
+            <link>undefinedas-i-write-this-nobody-knows-its-here-except-you-whoever/index.html</link>
+            <guid isPermaLink="false">d31911a2-60b7-458b-9396-bc3e2a0cb9c8</guid>
+            <pubDate>Sun, 29 May 2016 03:10:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
