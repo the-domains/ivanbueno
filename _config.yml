@@ -2,12 +2,13 @@ name: Ivan Bueno
 favicon: null
 layout_spectrum: 0.6246072470676154
 typography_spectrum: 0.8659720763098449
+title: Ivan Bueno
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-42641088-6
   facebook: null
   twitter: null
 opengraph:
