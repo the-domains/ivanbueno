@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.8489361
   brandStrength: 0
-  lightness: 0.3170213
+  rhythmicContrast: 0.6510639
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  rhythmicContrast: 0.6510639
+  lightness: 0.3170213
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-42641088-6
   facebook: null
-name: Ivan Bueno
 favicon: null
+name: Ivan Bueno
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.75832
-layout_spectrum: 1
+layout_spectrum: 0.004255319
